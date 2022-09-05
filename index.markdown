@@ -15,7 +15,7 @@ Like in previous years, the workshop is **invitation-only** and focuses on stren
 
 ## Location
 
-After Vienna, Berlin, Zürich, Linköping, and Milan, the sixth edition of the workshop will be held in Amsterdam, on 08 and 09 December 2022.
+After Vienna, Berlin, Zürich, Linköping, and Milan, the sixth edition of the workshop will be held in Amsterdam on December 5 and 6.
 The workshop will take place at the [Vrije Universiteit Amsterdam](https://www.vu.nl), in the heart of the final district of the city. More information on how to reach the location will be added shortly.
 
 ## Workshop Schedule
