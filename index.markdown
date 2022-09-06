@@ -9,14 +9,13 @@ layout: home
 <sub>[Photo by Massimo Catarinella - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=4553808)</sub>
 
 <br/>
-Since 2015, the **Stream Reasoning Workshop** is a yearly event where scientists from different communities (such as KR&R, Semantic Web, Databases, Stream Processing, Complex Event Processing, etc.) gather together to discuss problems and recent developments concerning the processing of rapidly changing data (data streams). 
+Since 2015, the **Stream Reasoning Workshop** has been a yearly event where scientists from different communities gather together to discuss problems and recent developments around the processing of rapidly changing data (data streams). 
 
 Like in previous years, the workshop is **invitation-only** and focuses on strengthening this growing community by sharing different perspectives, challenges, and experiences obtained by working with expressive yet efficient decision-making over data streams.
 
 ## Location
 
-After Vienna, Berlin, Zürich, Linköping, and Milan, the sixth edition of the workshop will be held in Amsterdam on December 5 and 6.
-The workshop will take place at the [Vrije Universiteit Amsterdam](https://www.vu.nl), in the heart of the final district of the city. More information on how to reach the location will be added shortly.
+After Vienna, Berlin, Zürich, Linköping, and Milan, the sixth edition of the workshop will be held on **December 5 and 6, 2022**. The event will take place at the [Vrije Universiteit Amsterdam](https://www.vu.nl), in the heart of the final district of the city. More information on how to reach the location will be added shortly.
 
 ## Workshop Schedule
 
