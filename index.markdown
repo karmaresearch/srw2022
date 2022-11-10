@@ -21,6 +21,15 @@ After Vienna, Berlin, Zürich, Linköping, and Milan, the sixth edition of the w
 
 TBA
 
+## Where to stay
+
+The VU 
+situated in the financial district ([Google Maps](https://goo.gl/maps/QsZJtQiX5dxBiwpu7)) and it is a few minutes away from Schiphol.
+All the buildings are situated within a close range. There are plenty of hotels
+nearby. A good hotel is the [Crowne
+Plaza](https://g.page/crowne-plaza-amsterdam-south?share). Another option, which is usually
+cheaper, is the [Holiday Inn Express](https://goo.gl/maps/Xy6fk9d7v7jpPoea7). A third option, which was positively reviewed by previous guests of our group, is [citizenM](https://g.page/citizenm-amsterdam-south?share). All three options are at a walking distance. Alternatively, you can stay in an hotel in the city center. Amsterdam is a fairly compact city and the VU can be easily reached using the tram lines 5 or 25. Several hotels allow their guests to rent bikes. Indeed, the fastest way to travel through the city is by bike, but be aware that it can get quite busy during peak hours.
+
 ## Organizers
 
 - [Jacopo Urbani](https://www.jacopourbani.it), Vrije Universiteit Amsterdam
