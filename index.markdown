@@ -46,6 +46,10 @@ In the afternoon, the workshop will take place in room
         <dt class="col-sm-3 time">14:00 - 15:00</dt>
         <dd class="col-sm-9">Keynote by prof. <a href="https://exascale.info/phil/">Philippe Cudré-Mauroux</a>, University of Fribourg
             <div class="container"><i>Title: TBA</i></div>
+            <div class="container">
+                <a href="#abstractBernardo" role="button" data-bs-toggle="collapse">[Abstract]</a>
+                <div id="abstractBernardo" class="collapse">TBA</div>
+            </div>
         </dd>
         <dt class="col-sm-3 time">15:00 - 16:30</dt>
         <dd class="col-sm-9">Afternoon session (research talks)</dd>
@@ -75,6 +79,10 @@ The workshop will take place, for the entire day, in **room HG 07A33** (7th floo
         <dt class="col-sm-3 time">13:30 - 14:30</dt>
         <dd class="col-sm-9">Keynote by prof. <a href="https://www.cs.ox.ac.uk/people/bernardo.cuencagrau/">Bernardo Cuenca Grau</a>, Oxford University
             <div class="container"><i>Title: TBA</i></div>
+            <div class="container">
+                <a href="#abstractBernardo" role="button" data-bs-toggle="collapse">[Abstract]</a>
+                <div id="abstractBernardo" class="collapse">TBA</div>
+            </div>
         </dd>
         <dt class="col-sm-3 time">14:30 - 16:00</dt>
         <dd class="col-sm-9">Afternoon session (research talks)</dd>
@@ -84,6 +92,8 @@ The workshop will take place, for the entire day, in **room HG 07A33** (7th floo
         <dd class="col-sm-9">Plenary closing session</dd>
     </dl>
 </div>
+
+
 
 ## Where to stay
 
