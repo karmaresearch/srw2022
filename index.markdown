@@ -19,7 +19,71 @@ After Vienna, Berlin, Zürich, Linköping, and Milan, the sixth edition of the w
 
 ## Workshop Schedule
 
-TBA
+<h4>Monday 05/12/2022</h4>
+
+In the morning, the workshop will take place in **room NU-3B19** (3rd floor of the NU building)
+
+<div class="container">
+    <dl class="row">
+        <dt class="col-sm-3 time">09:20 - 09:30</dt>
+        <dd class="col-sm-9">Welcome</dd>
+        <dt class="col-sm-3 time">09:30 - 11:00</dt>
+        <dd class="col-sm-9">First morning session (research talks)</dd>
+        <dt class="col-sm-3 time">11:00 - 11:30</dt>
+        <dd class="col-sm-9">Coffee break</dd>
+        <dt class="col-sm-3 time">11:30 - 13:00</dt>
+        <dd class="col-sm-9">Second morning session (research talks)</dd>
+        <dt class="col-sm-3 time">13:00 - 14:00</dt>
+        <dd class="col-sm-9">Lunch, which will be in a dedicated area in the same building</dd>
+    </dl>
+</div>
+
+In the afternoon, the workshop will take place in room
+**NU-3A65** (3rd floor of the NU building)
+
+<div class="container">
+    <dl class="row">
+        <dt class="col-sm-3 time">14:00 - 15:00</dt>
+        <dd class="col-sm-9">Keynote by prof. <a href="https://exascale.info/phil/">Philippe Cudré-Mauroux</a>, University of Fribourg
+            <div class="container"><i>Title: TBA</i></div>
+        </dd>
+        <dt class="col-sm-3 time">15:00 - 16:30</dt>
+        <dd class="col-sm-9">Afternoon session (research talks)</dd>
+        <dt class="col-sm-3 time">16:30 - 17:00</dt>
+        <dd class="col-sm-9">Coffee break</dd>
+        <dt class="col-sm-3 time">17:00 - 18:00</dt>
+        <dd class="col-sm-9">Plenary session</dd>
+    </dl>
+</div>
+
+In the evening, a social event will be held in the city center.
+
+<h4>Tuesday 06/12/2022</h4>
+
+The workshop will take place, for the entire day, in **room HG 07A33** (7th floor of the main building)
+
+<div class="container">
+    <dl class="row">
+        <dt class="col-sm-3 time">09:00 - 10:30</dt>
+        <dd class="col-sm-9">First morning session (research talks)</dd>
+        <dt class="col-sm-3 time">10:30 - 11:00</dt>
+        <dd class="col-sm-9">Coffee break</dd>
+        <dt class="col-sm-3 time">11:00 - 12:30</dt>
+        <dd class="col-sm-9">Second morning session (research talks)</dd>
+        <dt class="col-sm-3 time">12:30 - 13:30</dt>
+        <dd class="col-sm-9">Lunch, which will be served in the same room</dd>
+        <dt class="col-sm-3 time">13:30 - 14:30</dt>
+        <dd class="col-sm-9">Keynote by prof. <a href="https://www.cs.ox.ac.uk/people/bernardo.cuencagrau/">Bernardo Cuenca Grau</a>, Oxford University
+            <div class="container"><i>Title: TBA</i></div>
+        </dd>
+        <dt class="col-sm-3 time">14:30 - 16:00</dt>
+        <dd class="col-sm-9">Afternoon session (research talks)</dd>
+        <dt class="col-sm-3 time">16:00 - 16:30</dt>
+        <dd class="col-sm-9">Coffee break</dd>
+        <dt class="col-sm-3 time">16:30 - 17:30</dt>
+        <dd class="col-sm-9">Plenary closing session</dd>
+    </dl>
+</div>
 
 ## Where to stay
 

@@ -53,3 +53,8 @@ header_pages:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+sass:
+  load_paths:
+      - _sass
+      - /Users/jacopo/surfdrive/srw2022-website/vendor/bundle/ruby/3.1.0/gems/bootstrap-4.3.1
