@@ -25,15 +25,15 @@ In the morning, the workshop will take place in **room NU-3B19** (3rd floor of t
 
 <div class="container">
     <dl class="row">
-        <dt class="col-sm-3 time">09:20 - 09:30</dt>
+        <dt class="col-sm-3 time">09:50 - 10:00</dt>
         <dd class="col-sm-9">Welcome</dd>
-        <dt class="col-sm-3 time">09:30 - 11:00</dt>
+        <dt class="col-sm-3 time">10:00 - 11:00</dt>
         <dd class="col-sm-9">First morning session (research talks)</dd>
         <dt class="col-sm-3 time">11:00 - 11:30</dt>
         <dd class="col-sm-9">Coffee break</dd>
         <dt class="col-sm-3 time">11:30 - 13:00</dt>
         <dd class="col-sm-9">Second morning session (research talks)</dd>
-        <dt class="col-sm-3 time">13:00 - 14:00</dt>
+        <dt class="col-sm-3 time">13:00 - 14:30</dt>
         <dd class="col-sm-9">Lunch, which will be in a dedicated area in the same building</dd>
     </dl>
 </div>
@@ -43,7 +43,7 @@ In the afternoon, the workshop will take place in room
 
 <div class="container">
     <dl class="row">
-        <dt class="col-sm-3 time">14:00 - 15:00</dt>
+        <dt class="col-sm-3 time">14:30 - 15:30</dt>
         <dd class="col-sm-9">Keynote by prof. <a href="https://exascale.info/phil/">Philippe Cudré-Mauroux</a>, University of Fribourg
             <div class="container"><i>Title: Online Graph Data Integration</i></div>
             <div class="container">
@@ -51,11 +51,11 @@ In the afternoon, the workshop will take place in room
                 <div id="abstractPhilippe" class="collapse">Until recently, structured (e.g., relational) and unstructured (e.g., textual) data were managed very differently: Structured data was queried declaratively using languages such as SQL, while unstructured data was searched using boolean queries over inverted indices. Today, we witness the rapid emergence of Big Data Integration techniques leveraging knowledge graphs to bridge the gap between different types of contents and integrate both unstructured and structured information more effectively. I will start this talk by giving a few examples of Big Data Integration. I will then delve into modern data integration techniques leveraging neuro-symbolic architectures and online streaming aggregation, before describing a number of systems that were recently built in my lab in that context.</div>
             </div>
         </dd>
-        <dt class="col-sm-3 time">15:00 - 16:30</dt>
+        <dt class="col-sm-3 time">15:30 - 17:00</dt>
         <dd class="col-sm-9">Afternoon session (research talks)</dd>
-        <dt class="col-sm-3 time">16:30 - 17:00</dt>
+        <dt class="col-sm-3 time">17:00 - 17:30</dt>
         <dd class="col-sm-9">Coffee break</dd>
-        <dt class="col-sm-3 time">17:00 - 18:00</dt>
+        <dt class="col-sm-3 time">17:30 - 18:30</dt>
         <dd class="col-sm-9">Plenary session</dd>
     </dl>
 </div>
@@ -68,7 +68,7 @@ The workshop will take place, for the entire day, in **room HG 07A33** (7th floo
 
 <div class="container">
     <dl class="row">
-        <dt class="col-sm-3 time">09:00 - 10:30</dt>
+        <dt class="col-sm-3 time">09:30 - 10:30</dt>
         <dd class="col-sm-9">First morning session (research talks)</dd>
         <dt class="col-sm-3 time">10:30 - 11:00</dt>
         <dd class="col-sm-9">Coffee break</dd>
