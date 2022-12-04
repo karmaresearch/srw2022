@@ -81,7 +81,7 @@ In the afternoon, the workshop will take place in room
     </dl>
 </div>
 
-In the evening, a social event will be held in the city center.
+In the evening, there will be a dinner at [Indrapura](https://www.indrapura.nl) -- an indonesian restaurant. We have reserved a table at 7pm. The restaurant is located on Rembrandtplein [Google Maps](https://goo.gl/maps/h2ZBVJCSJauXmiYw5), in the heart of the city.
 
 <h4>Tuesday 06/12/2022</h4>
 
