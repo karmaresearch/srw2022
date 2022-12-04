@@ -25,7 +25,7 @@ In the morning, the workshop will take place in **room NU-3B19** (3rd floor of t
 
 <div class="container">
     <dl class="row">
-        <dt class="col-sm-3 time">09:50 - 10:00</dt>
+        <dt class="col-sm-3 time">09:30 - 10:00</dt>
         <dd class="col-sm-9">Welcome</dd>
         <dt class="col-sm-3 time">10:00 - 11:00</dt>
         <dd class="col-sm-9">First morning session (research talks)
