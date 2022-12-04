@@ -15,7 +15,8 @@ Like in previous years, the workshop is **invitation-only** and focuses on stren
 
 ## Location
 
-After Vienna, Berlin, Zürich, Linköping, and Milan, the sixth edition of the workshop will be held on **December 5 and 6, 2022**. The event will take place at the [Vrije Universiteit Amsterdam](https://www.vu.nl), in the heart of the final district of the city. More information on how to reach the location will be added shortly.
+After Vienna, Berlin, Zürich, Linköping, and Milan, the sixth edition of the workshop will be held on **December 5 and 6, 2022**. The event will take place at the [Vrije Universiteit Amsterdam](https://www.vu.nl), in the heart of the final district of the city. 
+On Monday, the workshop will be on the third floor of the New University (NU) building. The rooms can be reached freely without any pre-registration. On Tuesday, the workshop will be take place on the main building. You can find a map of the campus [here](/srw2022/assets/map.pdf) with some annotations about the location of the two buildings.
 
 ## Workshop Schedule
 
