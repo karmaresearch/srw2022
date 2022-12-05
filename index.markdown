@@ -103,7 +103,7 @@ The workshop will take place, for the entire day, in **room HG 07A33** (7th floo
             <div class="container">
                 <ul>
                     <li>Przemysław Wałęga: Stream reasoning in DatalogMTL via finite materialisation</li>
-                    <li>Jacopo Urbani: Towards Stream Reasoning with Composite AI</li>
+                    <li><s>Jacopo Urbani: Towards Stream Reasoning with Composite AI</s></li>
                     <li>Patrik Schneider: A Qualitative Temporal Extension of Here-and-There Logic</li>
                     <li>Danh Le Phuoc: Semantic Stream Learning and Reasoning: Think outside the box!</li>
                 </ul></div>
