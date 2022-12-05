@@ -32,7 +32,6 @@ In the morning, the workshop will take place in **room NU-3B19** (3rd floor of t
         <dd class="col-sm-9">First morning session (research talks)
             <div class="container">
                 <ul>
-                    <li>Daniel Schraudner: Distributed Complex Event Detection with Resource-oriented Stream Containers on the Edge</li>
                     <li>Anh Le Tuan: Semantic stream processing on different hardwares</li>
                 </ul></div>
         </dd>
@@ -69,7 +68,7 @@ In the afternoon, the workshop will take place in room
             <div class="container">
                 <ul>
                     <li><s>Pieter Bonte: Optimizing rules for continuous querying under entailment with CSprite++</s></li>
-                    <li>Danh Le Phuoc: Semantic Stream Learning and Reasoning: Think outside the box!</li>
+                    <li>Daniel Schraudner: Distributed Complex Event Detection with Resource-oriented Stream Containers on the Edge</li>
                     <li>Riccardo Tommasini: Streaming Linked Data and RSP4J: recent advancements and future work</li>
                     <li>Giacomo Ziffer: Towards Time-Evolving Analytics: Online Learning for Time-Dependent Evolving Data Streams</li>
                 </ul></div>
@@ -106,6 +105,7 @@ The workshop will take place, for the entire day, in **room HG 07A33** (7th floo
                     <li>Przemysław Wałęga: Stream reasoning in DatalogMTL via finite materialisation</li>
                     <li>Jacopo Urbani: Towards Stream Reasoning with Composite AI</li>
                     <li>Patrik Schneider: A Qualitative Temporal Extension of Here-and-There Logic</li>
+                    <li>Danh Le Phuoc: Semantic Stream Learning and Reasoning: Think outside the box!</li>
                 </ul></div>
         </dd>
         <dt class="col-sm-3 time">12:30 - 13:30</dt>
