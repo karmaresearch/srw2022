@@ -43,7 +43,6 @@ In the morning, the workshop will take place in **room NU-3B19** (3rd floor of t
             <div class="container">
                 <ul>
                     <li>Alessio Bernardo: motus.ml gives data an edge</li>
-                    <li>Danh Le Phuoc: Semantic Stream Learning and Reasoning: Think outside the box!</li>
                     <li>Mauro Dalle Lucca Tosi: TensAIR: Online Learning from Data Streams via Asynchronous Iterative Routing</li>
                 </ul></div>
         </dd>
@@ -69,7 +68,8 @@ In the afternoon, the workshop will take place in room
         <dd class="col-sm-9">Afternoon session (research talks)
             <div class="container">
                 <ul>
-                    <li>Pieter Bonte: Optimizing rules for continuous querying under entailment with CSprite++</li>
+                    <li><s>Pieter Bonte: Optimizing rules for continuous querying under entailment with CSprite++</s></li>
+                    <li>Danh Le Phuoc: Semantic Stream Learning and Reasoning: Think outside the box!</li>
                     <li>Riccardo Tommasini: Streaming Linked Data and RSP4J: recent advancements and future work</li>
                     <li>Giacomo Ziffer: Towards Time-Evolving Analytics: Online Learning for Time-Dependent Evolving Data Streams</li>
                 </ul></div>
