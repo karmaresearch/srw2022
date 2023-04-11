@@ -32,7 +32,7 @@ In the morning, the workshop will take place in **room NU-3B19** (3rd floor of t
         <dd class="col-sm-9">First morning session (research talks)
             <div class="container">
                 <ul>
-                    <li>Anh Le Tuan: Semantic stream processing on different hardwares</li>
+                    <li>Anh Le Tuan: Semantic stream processing on different hardwares [<a href="/srw2022/assets/slides/Anh_presentation.pdf">SLIDES</a>]</li>
                 </ul></div>
         </dd>
         <dt class="col-sm-3 time">11:00 - 11:30</dt>
@@ -41,8 +41,8 @@ In the morning, the workshop will take place in **room NU-3B19** (3rd floor of t
         <dd class="col-sm-9">Second morning session (research talks)
             <div class="container">
                 <ul>
-                    <li>Alessio Bernardo: motus.ml gives data an edge</li>
-                    <li>Mauro Dalle Lucca Tosi: TensAIR: Online Learning from Data Streams via Asynchronous Iterative Routing</li>
+                    <li>Alessio Bernardo: motus.ml gives data an edge [<a href="/srw2022/assets/slides/Alessio_motusml_tosend.pdf">SLIDES</a>]</li>
+                    <li>Mauro Dalle Lucca Tosi: TensAIR: Online Learning from Data Streams via Asynchronous Iterative Routing [<a href="/srw2022/assets/slides/Mauro_dalle_Lucca_slides.pptx">SLIDES</a>,<a href="/srw2022/assets/slides/Mauro_dalle_Lucca_paper.pdf">PAPER</a>]</li>
                 </ul></div>
         </dd>
         <dt class="col-sm-3 time">13:00 - 14:30</dt>
@@ -68,9 +68,9 @@ In the afternoon, the workshop will take place in room
             <div class="container">
                 <ul>
                     <li><s>Pieter Bonte: Optimizing rules for continuous querying under entailment with CSprite++</s></li>
-                    <li>Daniel Schraudner: Distributed Complex Event Detection with Resource-oriented Stream Containers on the Edge</li>
-                    <li>Riccardo Tommasini: Streaming Linked Data and RSP4J: recent advancements and future work</li>
-                    <li>Giacomo Ziffer: Towards Time-Evolving Analytics: Online Learning for Time-Dependent Evolving Data Streams</li>
+                    <li>Daniel Schraudner: Distributed Complex Event Detection with Resource-oriented Stream Containers on the Edge [<a href="/srw2022/assets/slides/Daniel_Schraudner.pdf">SLIDES</a>]</li>
+                    <li>Riccardo Tommasini: Streaming Linked Data and RSP4J: recent advancements and future work [<a href="/srw2022/assets/slides/Riccardo_Tommasini.pdf">SLIDES</a>]</li>
+                    <li>Giacomo Ziffer: Towards Time-Evolving Analytics: Online Learning for Time-Dependent Evolving Data Streams [<a href="/srw2022/assets/slides/Giacomo_Ziffer.pdf">SLIDES</a>]</li>
                 </ul></div>
         </dd>
         <dt class="col-sm-3 time">17:00 - 17:30</dt>
@@ -92,8 +92,8 @@ The workshop will take place, for the entire day, in **room HG 07A33** (7th floo
         <dd class="col-sm-9">First morning session (research talks)
             <div class="container">
                 <ul>
-                    <li>Manolis Pitsikalis: Stream Reasoning with Cycles</li>
-                    <li>Efthymia Tsamoura: Highly-Efficient Reasoning via Trigger Graphs</li>
+                    <li>Manolis Pitsikalis: Stream Reasoning with Cycles [<a href="/srw2022/assets/slides/Manolis_presentation.pdf">SLIDES</a>]</li>
+                    <li>Efthymia Tsamoura: Highly-Efficient Reasoning via Trigger Graphs [<a href="/srw2022/assets/slides/Efi_SRW.pdf">SLIDES</a>]</li>
                 </ul></div>
         </dd>
         <dt class="col-sm-3 time">10:30 - 11:00</dt>
@@ -102,9 +102,9 @@ The workshop will take place, for the entire day, in **room HG 07A33** (7th floo
         <dd class="col-sm-9">Second morning session (research talks)
             <div class="container">
                 <ul>
-                    <li>Przemysław Wałęga: Stream reasoning in DatalogMTL via finite materialisation</li>
+                    <li>Przemysław Wałęga: Stream reasoning in DatalogMTL via finite materialisation [<a href="/srw2022/assets/slides/SRW_P.Walega.pdf">SLIDES</a>]</li>
                     <li><s>Jacopo Urbani: Towards Stream Reasoning with Composite AI</s></li>
-                    <li>Patrik Schneider: A Qualitative Temporal Extension of Here-and-There Logic</li>
+                    <li>Patrik Schneider: A Qualitative Temporal Extension of Here-and-There Logic [<a href="/srw2022/assets/slides/Ptrik_Schneider.pdf">SLIDES</a>]</li>
                     <li>Danh Le Phuoc: Semantic Stream Learning and Reasoning: Think outside the box!</li>
                 </ul></div>
         </dd>
@@ -122,10 +122,10 @@ The workshop will take place, for the entire day, in **room HG 07A33** (7th floo
         <dd class="col-sm-9">Afternoon session (research talks)
             <div class="container">
                 <ul>
-                    <li>Daniele Dell'Aglio: Differentially private query answering over streaming knowledge graphs</li>
-                    <li>Maarten Vandenbrande: Incremental Query Aggregators in SOLID (short talk)</li>
-                    <li>Kushagra Singh Bisen: Aggregating Sensitive Health Datastreams in SOLID (short talk)</li>
-                    <li>Mathijs van Noort: Towards a Unifying Logic for Linked Data Streams (short talk)</li>
+                    <li>Daniele Dell'Aglio: Differentially private query answering over streaming knowledge graphs [<a href="/srw2022/assets/slides/daniele_dell_aglio.pptx">SLIDES</a>]</li>
+                    <li>Maarten Vandenbrande: Incremental Query Aggregators in SOLID (short talk) [<a href="/srw2022/assets/slides/Presentations_SR2022_Maarten_Kush_Mathijs-1429661414.pdf">SLIDES</a>]</li>
+                    <li>Kushagra Singh Bisen: Aggregating Sensitive Health Datastreams in SOLID (short talk) [<a href="/srw2022/assets/slides/Presentations_SR2022_Maarten_Kush_Mathijs-1429661414.pdf">SLIDES</a>]</li>
+                    <li>Mathijs van Noort: Towards a Unifying Logic for Linked Data Streams (short talk) [<a href="/srw2022/assets/slides/Presentations_SR2022_Maarten_Kush_Mathijs-1429661414.pdf">SLIDES</a>]</li>
                 </ul></div>
         </dd>
         <dt class="col-sm-3 time">16:00 - 16:30</dt>
